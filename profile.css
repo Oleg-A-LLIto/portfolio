@@ -304,6 +304,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 99%;
 }
 .profile-container06 {
   flex: 0 0 auto;
@@ -326,8 +327,8 @@
   top: 0%;
   width: 100%;
   height: 100%;
-  z-index: -1;
   position: absolute;
+  z-index: 1;
 }
 .profile-container07 {
   flex: 0 0 auto;
@@ -704,6 +705,8 @@
   letter-spacing: -0.025rem;
   text-transform: none;
   text-decoration: none;
+  opacity: 99%;
+  z-index: 1;
 }
 .profile-text24 {
   font-style: normal;
@@ -878,6 +881,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 99%;
 }
 .profile-container34 {
   flex: 0 0 auto;
@@ -1133,6 +1137,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 99%;
 }
 .profile-container47 {
   flex: 0 0 auto;
