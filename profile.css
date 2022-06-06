@@ -513,7 +513,7 @@
   margin-left: var(--dl-space-space-halfunit);
   margin-right: var(--dl-space-space-halfunit);
   background-size: cover;
-  background-image: url('https://s8.gifyu.com/images/Sequence-01_38d23a1b3aacf1e3f.gif');
+  background-image: url('public/playground_assets/Sequence 01_12.gif');
 }
 .profile-container14:hover {
   width: 512px;
@@ -532,7 +532,7 @@
 }
 .profile-container15:hover {
   opacity: 0.01;
-  background-image: url("public/playground_assets/catgal-1400w.png");;
+  background-image: url("public/playground_assets/sl2ef8zxfwp0u_fwhv1sbxhp6ds_svmioco3vouq8ifgls8skhbtuwbi4vlqjwnmy2rht3diyedq5ln9newaik4m-600h.jpg");
 }
 .profile-container16 {
   flex: 0 0 auto;
@@ -544,7 +544,7 @@
   margin-left: var(--dl-space-space-halfunit);
   margin-right: var(--dl-space-space-halfunit);
   background-size: cover;
-  background-image: url('https://s8.gifyu.com/images/Sequence-01f942ef8af1b47662.gif');
+  background-image: url('public/playground_assets/Sequence 01_13.gif');
 }
 .profile-container16:hover {
   width: 512px;
@@ -563,7 +563,7 @@
 }
 .profile-container17:hover {
   opacity: 0.01;
-  background-image: 92d6d392-af83-4fd4-9a67-8ccbe6659664;
+  background-image: url("public/playground_assets/artworks-tojjyhynzm0irsuw-9urbda-t500x500-600h.jpg");
 }
 .profile-container18 {
   flex: 0 0 auto;
@@ -575,7 +575,7 @@
   margin-left: var(--dl-space-space-halfunit);
   margin-right: var(--dl-space-space-halfunit);
   background-size: cover;
-  background-image: url('https://s8.gifyu.com/images/Sequence-01_28935181f0ae1a50a.gif');
+  background-image: url('public/playground_assets/ShotgunPixel.gif');
 }
 .profile-container18:hover {
   width: 512px;
@@ -590,12 +590,47 @@
   transition: 0.3s;
   align-items: flex-start;
   background-size: cover;
-  background-image: url("public/playground_assets/face.jpg");;
+  background-image: url("public/playground_assets/ShotgunPixelPreview.png");
 }
+
 .profile-container19:hover {
   opacity: 0.01;
-  background-image: 92d6d392-af83-4fd4-9a67-8ccbe6659664;
+  background-image: url("public/playground_assets/ShotgunPixelPreview.png");
 }
+
+.profile-container228 {
+  flex: 0 0 auto;
+  width: 128px;
+  height: 128px;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  margin-left: var(--dl-space-space-halfunit);
+  margin-right: var(--dl-space-space-halfunit);
+  background-size: cover;
+  background-image: url('public/playground_assets/ShotgunHirez.gif');
+}
+.profile-container228:hover {
+  width: 512px;
+  height: 512px;
+}
+.profile-container238 {
+  flex: 0 0 auto;
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 100%;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  background-size: cover;
+  background-image: url("public/playground_assets/ShotgunHirezPreview.png");;
+}
+
+.profile-container238:hover {
+  opacity: 0.01;
+  background-image: url("public/playground_assets/ShotgunHirezPreview.png");;
+}
+
 .profile-container20 {
   flex: 0 0 auto;
   width: 128px;
@@ -606,7 +641,7 @@
   margin-left: var(--dl-space-space-halfunit);
   margin-right: var(--dl-space-space-halfunit);
   background-size: cover;
-  background-image: url('https://s8.gifyu.com/images/Sequence-01_5.gif');
+  background-image: url('public/playground_assets/Sequence 01_14.gif');
 }
 .profile-container20:hover {
   width: 512px;
@@ -625,7 +660,7 @@
 }
 .profile-container21:hover {
   opacity: 0.01;
-  background-image: 92d6d392-af83-4fd4-9a67-8ccbe6659664;
+  background-image: url("public/playground_assets/thumb2-colorful-abstract-pattern-4k-creative-colorful-lines-linear-patterns-600h.jpg");
 }
 .profile-container22 {
   flex: 0 0 auto;
@@ -637,7 +672,7 @@
   margin-left: var(--dl-space-space-halfunit);
   margin-right: var(--dl-space-space-halfunit);
   background-size: cover;
-  background-image: url('https://s8.gifyu.com/images/Sequence-01_9.gif');
+  background-image: url('public/playground_assets/Sequence 01_11.gif');
 }
 .profile-container22:hover {
   width: 512px;
@@ -656,7 +691,7 @@
 }
 .profile-container23:hover {
   opacity: 0.01;
-  background-image: 92d6d392-af83-4fd4-9a67-8ccbe6659664;
+  background-image: url("public/playground_assets/izc_f4z2dhk-600h.jpg");
 }
 .profile-link02 {
   display: contents;
