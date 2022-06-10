@@ -36,6 +36,7 @@
   position: relative;
   align-items: center;
   flex-direction: column;
+  background-color: #161616;
 }
 .footer-container {
   color: var(--dl-color-gray-white);
@@ -958,6 +959,7 @@
   text-transform: none;
   text-decoration: none;
 }
+
 .profile-link05 {
   display: contents;
 }
@@ -1285,6 +1287,71 @@
   width: 50%;
   height: 10.5%;
 }
+.profile-container52 {
+  width: 100%;
+  height: 0;
+  padding-bottom: 50%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  background-size: cover;
+  backdrop-filter: blur(10px);
+  justify-content: center;
+  background-image: url("public/playground_assets/mobile games.png");
+}
+
+.profile-container53 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-left: 1%;
+  margin-bottom: 20%;
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-tripleunit);
+  background-size: cover;
+  justify-content: center;
+}
+
+.profile-container54 {
+  flex: 0 0 auto;
+  width: 15%;
+  height: 150%;
+  display: flex;
+  transition: 0.3s;
+  align-items: center;
+  margin-bottom: -3px;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+.profile-container54:hover {
+  width: 16%;
+  height: 160%;
+}
+
+.profile-text36 {
+  color: #ffffff;
+  font-size: 4rem;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 700;
+  line-height: 1.2;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  background-color: rgba(0, 0, 0, 0.75);
+  margin-top: 55%;
+}
+
+
 .profile-image13 {
   width: 60%;
   object-fit: cover;
