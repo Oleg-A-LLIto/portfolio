@@ -261,6 +261,7 @@
   font-style: italic;
   font-weight: 700;
   margin-right: var(--dl-space-space-unit);
+  font-size: 18px;
 }
 .profile-text02 {
   z-index: 100;
@@ -280,25 +281,27 @@
   justify-content: center;
   background-image: url("public/playground_assets/virtualdesktop.android-20220213-154426-1500w.jpg");
 }
+
 .profile-text09 {
-  color: #ffffff;
-  font-size: 72px;
-  align-self: flex-start;
-  font-style: normal;
-  font-family: Merriweather;
-  font-weight: 700;
-  line-height: 1.3;
-  margin-left: 10%;
-  padding-left: 10px;
-  margin-bottom: var(--dl-space-space-unitandahalfunit);
-  padding-right: 10px;
-  letter-spacing: -0.025rem;
-  text-transform: none;
-  text-decoration: none;
-  background-color: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-size: 72px;
+    align-self: flex-start;
+    font-style: normal;
+    font-family: Merriweather;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-left: 10%;
+    padding-left: 10px;
+    margin-bottom: var(--dl-space-space-unitandahalfunit);
+    padding-right: 10px;
+    letter-spacing: -0.025rem;
+    text-transform: none;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 .profile-text10 {
   font-style: normal;
+
 }
 .profile-container05 {
   width: 80%;
@@ -1349,6 +1352,23 @@
   padding-right: var(--dl-space-space-unit);
   background-color: rgba(0, 0, 0, 0.75);
   margin-top: 55%;
+}
+
+.year-divider {
+    margin: 0;
+    padding: 0;
+    background-image: url(public/playground_assets/square-2730229_1920.jpg);
+    background-size: 100% 100%;
+    height: 64px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgb(220,220,220);
+    margin-bottom: -15px;
+    padding-top: 1px;
 }
 
 
